@@ -1,0 +1,16 @@
+## Ignore build results
+bin/
+obj/
+out/
+*.log
+
+## User-specific files
+.vs/
+*.user
+*.suo
+
+## Configuration files
+appsettings.*.json
+
+## SQLite local
+*.db
