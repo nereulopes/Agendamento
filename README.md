@@ -28,7 +28,7 @@ dotnet ef database update
 
 ## 🧠 Estrutura da Solução
 - Agendamento.Api/ → Controllers e configuração da API
-- Agendamento.Aplicacao/ → Serviços e regras de negócio
+- Agendamento.Aplicacao/ → Dtos e Serviços
 - Agendamento.Dominio/ → Entidades e enums
 - Agendamento.Repositorio/ → Interfaces e repositórios EF
 - Agendamento.Infra/ → DbContext e Migrations
